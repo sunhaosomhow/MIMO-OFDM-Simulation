@@ -25,7 +25,7 @@ This simulation compares the BER performance between SISO(1×1) and 2×2 MIMO un
 - Antenna configuration: SISO(1×1) / MIMO(2×2)
 
 ## Simulation Result
-![BER curve of SISO and MIMO](figs/ber_curve.png)
+![BER curve of SISO and MIMO](ber_curve.png)
 > The figure shows BER decreases as SNR increases.
 > 2×2 MIMO achieves higher spectral efficiency: it transmits two independent data streams simultaneously in the same bandwidth, doubling the throughput compared with SISO.
 > Drawback of ZF equalizer: noise enhancement at low SNR.
